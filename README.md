@@ -32,6 +32,7 @@ El objetivo primordial es el desarrollo de una aplicación que capacite a los us
 ****
 
 
+
 <div align="center"> 
  
 |Participantes|Correo electronico|Perfil|
@@ -41,10 +42,18 @@ El objetivo primordial es el desarrollo de una aplicación que capacite a los us
 |**Fabricio Quiroga**|[![Correo](https://img.shields.io/badge/correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabripingui@gmail.com)| [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabricioquiroga)|
 |**Patricio Rodriguez**|[![Correo](https://img.shields.io/badge/correo-red?style=for-the-badge&logo=gmail&logoColor=white)](Mailto:rpatricioesteban@gmail.com)| [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1PatoRod)|
 |**Maxi Scarpatti**|[![Correo](https://img.shields.io/badge/correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxi.scarpatti@gmail.com)| [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxiScarpatti)|
-|**Miguel Tannfeld**|[![Correo](https://img.shields.io/badge/correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loreatannfeldmiguel@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miki68655)|
 |**Rodrigo Valdez**|[![Correo](https://img.shields.io/badge/correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fori2001@hotmail.com)| [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrForii)|
 |**Roxana Vilchez**|[![LinkedIn](https://img.shields.io/badge/correo-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vilchezro33@hotmail.com)| [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roxana333)|
 
 </div>
 <br>
+
+<h2 align='center' >📍 Entregables Primera Etapa</h2>
+
+<h3 align='center' >🚀 <a href="https://github.com/ISPC-Vanguard-Systems/ARG-Broker/wiki/Base-de-Datos" align='center'>Wiki Base de Datos</a></h3>
+
+<h3 align='center' >🚀 <a href="https://github.com/ISPC-Vanguard-Systems/ARG-Broker/wiki/Etica-y-Deontologia-Profesional" align='center'>Wiki Ética y Deontología Profesional</a></h3>
+
+<h3 align='center' >🚀 <a href="https://github.com/ISPC-Vanguard-Systems/ARG-Broker/wiki/Programaci%C3%B3n" align='center'>Wiki Programación</a></h3>
+
 
